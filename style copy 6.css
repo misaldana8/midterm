@@ -1,0 +1,21 @@
+#section1{
+  border-style: solid;
+  position: absolute;
+  left: 1030px;
+  right: 100px;
+  background: url(https://amazingpict.com/wp-content/uploads/2015/12/tulip-field-nature.jpg);
+  background-size: contain;  
+}
+
+#section2{
+  border-style: solid;
+  position: absolute;
+  right: 1030px;
+  left: 100px;
+  background: url(http://www.dreams.metroeve.com/wp-content/uploads/2017/08/www.dreams.metroeve.com-lily-pad-dreams-meaning.jpg);
+  background-size: contain;
+ }
+
+span {
+  color: red;
+}

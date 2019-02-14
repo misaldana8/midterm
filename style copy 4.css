@@ -1,0 +1,100 @@
+/* Increase Specifity to complete the following challenges. */
+
+/*CHALLENGE ONE: Change <p> the color to orange */
+#orange {
+  background-color: orange;}
+
+/*CHALLENGE TWO: Change the <h1> background to blue*/
+#gary {
+  background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Do not edit Below */
+p,
+h1 {
+  color: red;
+  background: #000;
+}
+/* Do not edit Above */

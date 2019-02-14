@@ -1,0 +1,13 @@
+/* make me big, strong, and green */
+.first-line{
+  color: green;
+  font-weight: bold;
+  font-size: 5em;
+}
+
+/* give me some emphisis and change my color to violet */
+span{
+  font-style: italic;
+  font-family: 'Felipa', cursive;
+  color: violet;
+}

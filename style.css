@@ -1,0 +1,9 @@
+div {
+	background: url(https://avatars3.githubusercontent.com/u/22280069?s=400&v=4);
+  background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+	height: 1500px;
+  width: 2000px;
+}
